@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidCityChoose</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_choose_city">选择城市</string>
+</resources>
